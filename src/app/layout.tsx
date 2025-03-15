@@ -5,8 +5,8 @@ import { twMerge } from "tailwind-merge";
 
 
 export const metadata: Metadata = {
-  title: "AI Startup Landing Page",
-  description: "A landing page for an AI startup created with Frontend Tribe",
+  title: "TMT",
+  description: "A landing page for the TMT group",
 };
 
 export default function RootLayout({
